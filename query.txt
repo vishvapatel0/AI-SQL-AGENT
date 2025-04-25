@@ -1,0 +1,1 @@
+Find the total number of rentals and total amount spent by each customer who lives in a city that starts with the letter 'A'. Show their full name, email, city, number of rentals, and total amount paid. Only include customers who rented more than 3 times. Sort the results by total amount spent in descending order.
